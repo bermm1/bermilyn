@@ -208,18 +208,18 @@ footer p {
     }
 
     .header h1 {
-        font-size: 22px; 
+        font-size: 20px; 
     }
 
     .navbar {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        padding: 5px;
+        padding: 10px;
     }
 
     .navbar a {
-        margin: 0; 
+        margin: 5px; 
         font-size: 10px;
     }
 
